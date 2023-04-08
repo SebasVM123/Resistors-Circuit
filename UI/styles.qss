@@ -1,0 +1,78 @@
+*{font-family: "Calibri"; color: rgb(144, 119, 97);}
+
+QMainWindow{
+    background-image: url(wallpaper.png);
+    background-repeat: no-repeat;
+    background-color: rgb(22, 17, 17);
+}
+
+QDialog{
+    background-color: rgb(144, 119, 97);
+}
+
+#pushButtonVol{
+    border-radius: 3px;
+    color: rgb(22, 17, 17);
+    background-color: rgb(91, 75, 61);
+}
+
+#pushButtonVol:hover{
+    border-radius: 3px;
+    color: rgb(22, 17, 17);
+    background-color: rgb(144, 119, 97);
+}
+
+#pushButtonCrear{
+    border-radius: 3px;
+    color: rgb(22, 17, 17);
+    background-color: rgb(91, 75, 61);
+}
+
+#pushButtonCrear:hover{
+    border-radius: 3px;
+    color: rgb(22, 17, 17);
+    background-color: rgb(144, 119, 97);
+}
+
+#pushButtonFinish{
+    border-radius: 3px;
+    color: rgb(22, 17, 17);
+    background-color: rgb(91, 75, 61);
+}
+
+#pushButtonFinish:hover{
+    border-radius: 3px;
+    color: rgb(22, 17, 17);
+    background-color: rgb(144, 119, 97);
+}
+
+#pushButtonCalcular{
+    border-radius: 3px;
+    color: rgb(22, 17, 17);
+    background-color: rgb(91, 75, 61);
+}
+
+#pushButtonCalcular:hover{
+    border-radius: 3px;
+    color: rgb(22, 17, 17);
+    background-color: rgb(144, 119, 97);
+}
+
+#pushButtonRes{
+    border-radius: 3px;
+    color: rgb(22, 17, 17);
+    background-color: rgb(91, 75, 61);
+}
+
+#pushButtonRes:hover{
+    border-radius: 3px;
+    color: rgb(22, 17, 17);
+    background-color: rgb(144, 119, 97);
+}
+
+
+QLineEdit{
+    font: 10pt;
+    background-color: rgb(144, 119, 97);
+    color: rgb(22, 17, 17);
+}
